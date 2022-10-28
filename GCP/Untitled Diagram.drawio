@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-28T06:26:56.027Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="-fBNfEnKNrJxxEJMUHAd" version="18.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-28T06:32:06.115Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="2avfORTxE5U9--bhCLqG" version="18.0.5" type="github">
   <diagram id="8MiBQFkhC163BQJhzvqc" name="Page-1">
     <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="240" y="70" width="420" height="290" as="geometry" />
         </mxCell>
         <mxCell id="FW8Fi_QfFCGdqMMHrhlS-10" value="" style="whiteSpace=wrap;html=1;rounded=0;dashed=1;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="460" y="80" width="150" height="160" as="geometry" />
+          <mxGeometry x="400" y="80" width="210" height="160" as="geometry" />
         </mxCell>
         <mxCell id="FW8Fi_QfFCGdqMMHrhlS-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="FW8Fi_QfFCGdqMMHrhlS-5" target="FW8Fi_QfFCGdqMMHrhlS-6">
           <mxGeometry relative="1" as="geometry" />
@@ -25,7 +25,7 @@
         <mxCell id="FW8Fi_QfFCGdqMMHrhlS-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="FW8Fi_QfFCGdqMMHrhlS-5" target="FW8Fi_QfFCGdqMMHrhlS-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FW8Fi_QfFCGdqMMHrhlS-5" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;check instiall pipeline&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;dashed=1;fillColor=#F2F4FC;" vertex="1" parent="1">
+        <mxCell id="FW8Fi_QfFCGdqMMHrhlS-5" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;check install pipeline&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;dashed=1;fillColor=#F2F4FC;" vertex="1" parent="1">
           <mxGeometry x="480" y="90" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FW8Fi_QfFCGdqMMHrhlS-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.632;entryY=0.364;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=11;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="FW8Fi_QfFCGdqMMHrhlS-6" target="FW8Fi_QfFCGdqMMHrhlS-10">
@@ -59,6 +59,18 @@
           <mxGeometry width="30" height="30" relative="1" as="geometry">
             <mxPoint x="15" y="15" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="FW8Fi_QfFCGdqMMHrhlS-21" value="" style="whiteSpace=wrap;html=1;rounded=0;dashed=1;fontSize=11;fillColor=#E5CCFF;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="400" y="250" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FW8Fi_QfFCGdqMMHrhlS-22" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;ADO - work item&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;dashed=1;fillColor=#F2F4FC;" vertex="1" parent="1">
+          <mxGeometry x="480" y="260" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FW8Fi_QfFCGdqMMHrhlS-23" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;ADO - iteration&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;dashed=1;fillColor=#F2F4FC;" vertex="1" parent="1">
+          <mxGeometry x="480" y="290" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FW8Fi_QfFCGdqMMHrhlS-24" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;ADO - project&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;dashed=1;fillColor=#F2F4FC;" vertex="1" parent="1">
+          <mxGeometry x="480" y="320" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
