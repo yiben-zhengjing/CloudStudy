@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-30T14:41:58.165Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="bRu7M9hKw7H4fEvF6Q_1" version="18.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-30T14:42:36.874Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="chnR_FT7t57I1f8roT9k" version="18.0.5" type="github">
   <diagram id="8MiBQFkhC163BQJhzvqc" name="Page-1">
     <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -92,6 +92,12 @@
         </mxCell>
         <mxCell id="FW8Fi_QfFCGdqMMHrhlS-32" value="&lt;b&gt;Billing&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;dashed=1;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="409" y="400" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FW8Fi_QfFCGdqMMHrhlS-33" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;BigQuery Cost&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;dashed=1;fillColor=#F2F4FC;" vertex="1" parent="1">
+          <mxGeometry x="480" y="370" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FW8Fi_QfFCGdqMMHrhlS-34" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Infrasture Cost&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;dashed=1;fillColor=#F2F4FC;" vertex="1" parent="1">
+          <mxGeometry x="480" y="400" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
