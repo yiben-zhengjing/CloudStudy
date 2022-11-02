@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-02T08:11:08.315Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Rgtj6EZHJ-VzIIF8YNuZ" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-02T08:11:33.614Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="0jQq_e5dWu8bokUSGkqP" version="20.5.1" type="github">
   <diagram id="VftMRJu-54TiVehXEa8p" name="Page-1">
     <mxGraphModel dx="856" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -53,6 +53,9 @@
         </mxCell>
         <mxCell id="6Av1oekwRhGlr401Ctu0-27" value="" style="shape=message;html=1;whiteSpace=wrap;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="278.75" width="40" height="24.5" as="geometry" />
+        </mxCell>
+        <mxCell id="6Av1oekwRhGlr401Ctu0-28" value="workspace id&lt;br&gt;dataset id" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="225" y="303.25" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
